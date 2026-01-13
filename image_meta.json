@@ -1,0 +1,80 @@
+[
+  {
+    "query": "professional asian man developer portrait minimalist background",
+    "image_info": {
+      "url": "https://www.shutterstock.com/image-photo/portrait-young-asian-business-man-600nw-2564807505.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 25236,
+      "width": 600,
+      "height": 400,
+      "total_pixels": 240000,
+      "basic_score": 0.7622649896009971,
+      "file_name": "professional-asian-male-developer-holding-laptop-white-background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query. It depicts a professional Asian male with a laptop (signifying a developer role) against a clean white background. The lighting is excellent, the subject is engaging, and the resolution appears high with no visible watermarks.",
+      "file_name": "professional-asian-male-developer-holding-laptop-white-background.jpg",
+      "caption": "A smiling young Asian professional wearing a navy blue suit jacket and white shirt stands against a white background, holding an open laptop computer.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "professional asian man developer portrait minimalist background",
+    "image_info": {
+      "url": "https://img.freepik.com/free-photo/copy-space-man-with-laptop_23-2148468658.jpg?semt=ais_hybrid&w=740&q=80",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 19361,
+      "width": 740,
+      "height": 416,
+      "total_pixels": 307840,
+      "basic_score": 0.7859361364888755,
+      "file_name": "asian-male-developer-holding-laptop-white-background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query, featuring an Asian male holding a laptop against a clean white background. The lighting is professional, and the composition allows for ample negative space on the left, making it highly versatile for design use. The casual attire fits the modern developer persona well.",
+      "file_name": "asian-male-developer-holding-laptop-white-background.jpg",
+      "caption": "A portrait of a young Asian male developer standing against a white background, holding an open black laptop and looking directly at the camera, wearing a white long-sleeved shirt and a smartwatch.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "professional asian man developer portrait minimalist background",
+    "image_info": {
+      "url": "https://www.shutterstock.com/image-photo/full-body-image-young-asian-600nw-2564342353.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 22315,
+      "width": 419,
+      "height": 600,
+      "total_pixels": 251400,
+      "basic_score": 0.7690454277803649,
+      "file_name": "asian_male_developer_celebrating_laptop_white_background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt. It depicts a professional Asian male with a laptop (signifying a developer role) against a clean white background. The celebratory gesture adds a positive dynamic element suitable for themes of success or problem-solving. The lighting and resolution are excellent.",
+      "file_name": "asian_male_developer_celebrating_laptop_white_background.jpg",
+      "caption": "A full-body studio portrait of a young professional Asian man sitting on a wooden chair holding a laptop and raising his fist in a gesture of success against a minimalist white background.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
